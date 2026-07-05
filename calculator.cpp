@@ -2,7 +2,7 @@
 #include<cmath>
 using namespace std;
 
-int main()
+int main() // Main entry file
 {
     int num1 , num2;
     cout<<"enter first number";
